@@ -1,0 +1,7 @@
+logs/
+plugins/
+postgres-data/
+redis-data/
+__pycache__/
+*.csvx
+
