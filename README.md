@@ -25,7 +25,7 @@ O modelo foi treinado localmente utilizando o algoritmo **K-Nearest Neighbors (K
 ### Passo a Passo
 1. Clone este repositório:
    ```bash
-   git clone [https://github.com/cclaras/ML-recomendacao-netflix.git](https://github.com/cclaras/ML-recomendacao-     netflix.git)
+   git clone [https://github.com/cclaras/ML-recomendacao-netflix.git](https://github.com/cclaras/ML-recomendacao-netflix.git)
    cd ML-recomendacao-netflix
 
 2. Suba a infraestrutura em segundo plano:
