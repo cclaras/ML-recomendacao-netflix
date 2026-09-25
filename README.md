@@ -25,7 +25,7 @@ O modelo foi treinado localmente utilizando o algoritmo **K-Nearest Neighbors (K
 ### Passo a Passo
 1. Clone este repositório:
    ```bash
-   git clone [https://github.com/cclaras/ML-recomendacao-netflix.git](https://github.com/cclaras/ML-recomendacao-netflix.git)
+   git clone [https://github.com/cclaras/ML-recomendacao-netflix.git](https://github.com/cclaras/ML-recomendacao-     netflix.git)
    cd ML-recomendacao-netflix
 
 2. Suba a infraestrutura em segundo plano:
@@ -34,13 +34,13 @@ O modelo foi treinado localmente utilizando o algoritmo **K-Nearest Neighbors (K
    
 3. Acesse a interface do Airflow:
 ```bash
-- Abra o navegador em http://localhost:8080
-- Usuário: airflow | Senha: airflow
+   Abra o navegador em http://localhost:8080
+   Usuário: airflow | Senha: airflow
 ````
 
 4. Para desligar o ecossistema após o uso:
 ````Bash
-docker compose down
+   docker compose down
 ````
 
 *Desenvolvido por Clara Porto. Conecte-se comigo no [LinkedIn](https://www.linkedin.com/in/clara-porto-0333b9302/).*
